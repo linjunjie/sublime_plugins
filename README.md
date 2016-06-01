@@ -10,6 +10,10 @@ sublime自定义插件目录为：
 
 /Users/andy/Library/Application Support/Sublime Text 2/Packages/User/
 
+sublime中自带很多插件，如果在编写插件的过程中有困惑可以参考这里，这里有很多有用的代码：
+
+/Users/andy/Library/Application Support/Sublime Text 2/Packages/Default
+
 > sublime下打开命令行的命令是ctrl+`，通过打开这个窗口可以看到sublime输出的一些信息
 
 - addComments.py
